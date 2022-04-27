@@ -1,0 +1,28 @@
+TYPE : int 
+IDENTIFIER : main 
+PARANTHESIS : ( 
+PARANTHESIS : ) 
+PARANTHESIS : { 
+TYPE : int 
+IDENTIFIER : fact 
+ASSIGN : =  
+NUMBER : =  1 
+SEMICOLON : ; 
+LOOP : while 
+PARANTHESIS : ( 
+NUMBER : =  1 
+PARANTHESIS : ) 
+PARANTHESIS : { 
+IDENTIFIER : fact 
+ASSIGN : =  
+IDENTIFIER : fact 
+MULTIPLY : * 
+IDENTIFIER : i 
+SEMICOLON : ; 
+PARANTHESIS : } 
+TYPE : int 
+IDENTIFIER : x 
+ASSIGN : =  
+IDENTIFIER : printf 
+PARANTHESIS : ( 
+STRING : Factorial Value of N is

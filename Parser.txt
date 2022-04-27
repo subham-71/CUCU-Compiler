@@ -1,0 +1,11 @@
+Integer :  1 
+Variable type : int 
+Identifier : fact 
+
+CONDITION :  1 > 0 
+Variable : fact 
+Variable : i 
+Arithmetic Operator : * 
+Identifier : fact 
+
+Syntax Error !
